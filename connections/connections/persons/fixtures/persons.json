@@ -1,0 +1,50 @@
+[
+    {
+        "model": "persons.contact",
+        "pk": 1,
+        "fields": {
+            "mobileNumber": "9973233123",
+            "emailId": "daskdj@lm.co"
+        }
+    },
+    {
+        "model": "persons.contact",
+        "pk": 2,
+        "fields": {
+            "mobileNumber": "9973233122",
+            "emailId": "test@lm.co"
+        }
+    },
+    {
+        "model": "persons.person",
+        "pk": 1,
+        "fields": {
+            "name": "shubham",
+            "contact": 1
+        }
+    },
+    {
+        "model": "persons.person",
+        "pk": 2,
+        "fields": {
+            "name": "shubham",
+            "contact": 1
+        }
+    },
+    {
+        "model": "persons.person",
+        "pk": 3,
+        "fields": {
+            "name": "shubham",
+            "contact": 2
+        }
+    },
+    {
+        "model": "persons.person",
+        "pk": 4,
+        "fields": {
+            "name": "Chicken",
+            "contact": 2
+        }
+    }
+]
